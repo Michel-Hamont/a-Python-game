@@ -1,0 +1,1 @@
+# a-Python-game: This is a Python game running on Pygame which I made for fun and educational purposes. It is an adaptation of a game by Al Sweigart released under a BSD-license. In the game you get to play as a man or woman and you 'fight' bad leaders by eating them when they are smaller than you.
